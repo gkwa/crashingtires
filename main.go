@@ -13,7 +13,6 @@ func main() {
 		log.Fatal(err)
 	}
 
-	fmt.Println("AWS Regions:")
 	for _, region := range regions {
 		fmt.Println(*region.RegionName)
 	}
