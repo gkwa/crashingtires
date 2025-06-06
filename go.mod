@@ -2,7 +2,7 @@ module github.com/taylormonacelli/crashingtires
 
 go 1.21.1
 
-toolchain go1.24.3
+toolchain go1.24.4
 
 require github.com/taylormonacelli/lemondrop v0.0.20
 
